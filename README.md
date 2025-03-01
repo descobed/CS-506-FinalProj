@@ -8,6 +8,12 @@ Once these disperities are found graph the types of people that are being affect
 Goal:
 --------------------
 Visualizing what groups are being affected by disperities in access to public transit. 
+
+!!!!!!
+Ideally want to take what changes have been made to the transit in Boston and compare that to the impact those changes have had. This should be able to provide some form of data that can be used to help visualize or propose new lines or areas that can be improved with the most impact. I want to see the correlations between fixes that have been provided and the efficacy of those fixes. This may lead to some pie in the sky proposal of a new line that aims to alleviate pressure on other bus or train lines but we will see where the data takes us.
+!!!!!!
+
+
 Offer possible recomendations and create maps (ArcGIS) of the affected areas to help convey that data.
 Offer maps of what possible changes to the current system could look like. For example if we were able to achieve better access to an area how would that change how equitable living in boston is.
 Are there any routes or changes that, through assumptions taken in modeling our data, would improve the traveling experience of Bostonians.
